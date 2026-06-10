@@ -1,7 +1,7 @@
 class Hi < Formula
   desc "It spams hi in your terminal/bash/zsh. Thats all."
   homepage "https://github.com/Kirilkovale1424143/hi"
-  url "https://github.com.git", :using => :git, :tag => "Spam"
+  url "https://github.com.", :using => :git, :tag => "Spam"
   version "1.0.0"
   sha256 "9a3f37f893d87a7b25727751475deeea7b8b7a0236036ac8b191dde5ff2e95e8"
   license :cannot_represent
