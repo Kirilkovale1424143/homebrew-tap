@@ -3,7 +3,7 @@ class Hi < Formula
   homepage "https://github.com/Kirilkovale1424143/hi"
   url "https://github.com"
   version "1.0.0"
-  sha256 "056dbf96cc24cfbb63c467a840e698305b4e74744d084d5df6870da9ceb4ec9c"
+  sha256 "9a3f37f893d87a7b25727751475deeea7b8b7a0236036ac8b191dde5ff2e95e8"
   license :cannot_represent
 
   depends_on :xcode => ["12.0", :build]
